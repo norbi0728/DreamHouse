@@ -1,0 +1,2 @@
+8192 hajmasker harsfa utca 2,500,200,gas,200000,ez egy sz?p h?z,agent
+8200 veszprem egyetem utca 10,1000,300,gas,12000,egyetem,agent
